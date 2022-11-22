@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import './globalStyles.css'
 
 function App() {
 
